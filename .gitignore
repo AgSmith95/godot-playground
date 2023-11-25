@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+
+# junk created by Godot
+**.import
+
+# Build files
+build/*
+
