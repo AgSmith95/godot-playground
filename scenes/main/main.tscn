@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://iafd0idnwfl8"]
 
 [ext_resource type="Script" path="res://scenes/main/Main.gd" id="1_vg6um"]
-[ext_resource type="FontFile" uid="uid://cex7w8yxomj5q" path="res://fonts/cmu/cmu-typewriter-bold.ttf" id="2_lhuue"]
+[ext_resource type="FontFile" uid="uid://bxssy3jwdvi32" path="res://fonts/cmu/cmu-typewriter-bold.ttf" id="2_lhuue"]
 [ext_resource type="Script" path="res://scenes/main/PlayButton.gd" id="3_ws0s5"]
 
 [node name="Main" type="Node2D"]

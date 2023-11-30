@@ -1,8 +1,11 @@
 # Godot 4+ specific ignores
+.DS_Store
+*~
 .godot/
+.import/
 
-# junk created by Godot
-**.import
+# Logs
+logs/
 
 # Build files
 build/*
