@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6ddbd5bbc964b213f7a84ac454c3fad455875e47ecb9ea6661eb1cafcf1465f
-size 725
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://oihio1lilbuy"
+path="res://.godot/imported/cmu-typewriter-text-italic.ttf-d2a9c771c5f9e5f7c4843774a19cd0c7.fontdata"
+
+[deps]
+
+source_file="res://fonts/cmu/cmu-typewriter-text-italic.ttf"
+dest_files=["res://.godot/imported/cmu-typewriter-text-italic.ttf-d2a9c771c5f9e5f7c4843774a19cd0c7.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}

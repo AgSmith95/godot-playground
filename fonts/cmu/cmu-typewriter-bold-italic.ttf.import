@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2bfcf9995e7c996cd12e1fa04582b56fa1ae93bc6240f9fbe55a667d9598840b
-size 724
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://bfejvfnc8cu64"
+path="res://.godot/imported/cmu-typewriter-bold-italic.ttf-a16aae350606d7e8caba9d58906142ab.fontdata"
+
+[deps]
+
+source_file="res://fonts/cmu/cmu-typewriter-bold-italic.ttf"
+dest_files=["res://.godot/imported/cmu-typewriter-bold-italic.ttf-a16aae350606d7e8caba9d58906142ab.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}

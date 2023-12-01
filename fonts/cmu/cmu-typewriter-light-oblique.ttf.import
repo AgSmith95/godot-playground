@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d8c247e8d68c210d01759f6d95ef0e630c4724bbf498f23c5bbfef922e0e299
-size 731
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://bwvo1fyucsx4g"
+path="res://.godot/imported/cmu-typewriter-light-oblique.ttf-779d0a53c44289c151aa02c4c68ae7f8.fontdata"
+
+[deps]
+
+source_file="res://fonts/cmu/cmu-typewriter-light-oblique.ttf"
+dest_files=["res://.godot/imported/cmu-typewriter-light-oblique.ttf-779d0a53c44289c151aa02c4c68ae7f8.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}
