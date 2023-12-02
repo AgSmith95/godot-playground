@@ -9,20 +9,20 @@
 script = ExtResource("1_vg6um")
 
 [node name="CloseButton" type="Button" parent="."]
-offset_left = 128.0
-offset_top = 672.0
-offset_right = 448.0
-offset_bottom = 768.0
+offset_left = 120.0
+offset_top = 660.0
+offset_right = 420.0
+offset_bottom = 750.0
 theme_override_fonts/font = ExtResource("2_lhuue")
 theme_override_font_sizes/font_size = 60
 text = "CLOSE"
 clip_text = true
 
 [node name="PlayButton" type="Button" parent="."]
-offset_left = 128.0
-offset_top = 512.0
-offset_right = 448.0
-offset_bottom = 608.0
+offset_left = 120.0
+offset_top = 510.0
+offset_right = 420.0
+offset_bottom = 600.0
 theme_override_fonts/font = ExtResource("2_lhuue")
 theme_override_font_sizes/font_size = 60
 text = "PLAY"
@@ -30,8 +30,8 @@ clip_text = true
 script = ExtResource("3_ws0s5")
 
 [node name="Label" type="Label" parent="."]
-offset_top = 320.0
-offset_right = 576.0
+offset_top = 330.0
+offset_right = 540.0
 offset_bottom = 448.0
 theme_override_fonts/font = ExtResource("2_lhuue")
 theme_override_font_sizes/font_size = 72
