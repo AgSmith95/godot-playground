@@ -1,8 +1,7 @@
-[gd_scene load_steps=5 format=3 uid="uid://iafd0idnwfl8"]
+[gd_scene load_steps=4 format=3 uid="uid://iafd0idnwfl8"]
 
 [ext_resource type="Script" path="res://scenes/main/Main.gd" id="1_vg6um"]
 [ext_resource type="FontFile" uid="uid://dgqm14d5xtvg8" path="res://fonts/cmu/cmu-typewriter-bold.ttf" id="2_lhuue"]
-[ext_resource type="Script" path="res://scenes/main/PlayButton.gd" id="3_ws0s5"]
 [ext_resource type="Script" path="res://scenes/main/ResolutionLabel.gd" id="4_h64fu"]
 
 [node name="Main" type="Node2D"]
@@ -27,7 +26,6 @@ theme_override_fonts/font = ExtResource("2_lhuue")
 theme_override_font_sizes/font_size = 60
 text = "PLAY"
 clip_text = true
-script = ExtResource("3_ws0s5")
 
 [node name="Label" type="Label" parent="."]
 offset_top = 330.0

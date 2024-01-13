@@ -11,12 +11,7 @@ func _process(_delta):
 	pass
 
 
-func _on_button_pressed():
-	get_tree().quit(0)
-	pass # Replace with function body.
-
-
-func _on_play_button_pressed():
-	print("PLAY button pressed")
-	get_tree().change_scene_to_file("res://scenes/play/play_scene.tscn")
+func _on_main_menu_button_pressed():
+	print("MAIN MENU button pressed")
+	get_tree().change_scene_to_file("res://scenes/main/main.tscn")
 	pass # Replace with function body.
