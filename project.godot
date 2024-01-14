@@ -15,6 +15,10 @@ run/main_scene="res://scenes/main/main.tscn"
 config/features=PackedStringArray("4.1", "Mobile")
 config/icon="res://images/id-icon-192x192-1.png"
 
+[autoload]
+
+SaverLoader="*res://scripts/SaverLoader.gd"
+
 [display]
 
 window/size/viewport_width=540
